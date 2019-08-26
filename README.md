@@ -1,3 +1,3 @@
 # mynewrepo
 First Git Repository
-I like fish
+I like fish. This is how you edit
